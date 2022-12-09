@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="BookStore" />
+
+    <version value="2" />
+
+    <list>
+        <mapping class="com.may.litepaltest.Book" />
+        <mapping class="com.may.litepaltest.Category" />
+    </list>
+
+</litepal>
